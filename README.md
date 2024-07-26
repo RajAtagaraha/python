@@ -25,4 +25,7 @@ Python Projects
         def get_url_user(username):
             return "The user :  %s" % username                     
  
-4. 
+ 4. What is @property annotation mean in a function?
+    
+    
+        The property function returns the object of the prpopetry class and it is used to create the public of a cllss
